@@ -1,0 +1,2 @@
+# MCSkinHistory Wiki
+
