@@ -22,9 +22,13 @@ Welcome to the **MCSkinHistory Help Section**. This is an open-source knowledge 
 
 <contentblock small>
 
-<h2>yo</h2>
+<h2>Legal</h2>
 
-<p>lets go</p>
+<p class="space-x-3">
+<a href="/help/copyright-policy">Copyright Policy</a>
+<a href="/help/imprint">Imprint</a>
+<a href="/help/refund-policy">Refund Policy</a>
+</p>
 
 </contentblock>
 
