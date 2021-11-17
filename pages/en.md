@@ -30,9 +30,9 @@ Welcome to the **MCSkinHistory Help Section**. This is an open-source knowledge 
 
 <contentblock small>
 
-<h2>yo</h2>
+<h2>Meta</h2>
 
-<p>lets go</p>
+<p><a href="/help/history">History</a></p>
 
 </contentblock>
 
