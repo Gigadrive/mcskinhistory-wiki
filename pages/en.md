@@ -6,7 +6,21 @@ Welcome to the **MCSkinHistory Help Section**. This is an open-source knowledge 
 
 <contentblock>
 
-<h2>yo</h2>
+<h2>Getting Started</h2>
+
+<p>
+Start off on the right foot and learn what MCSkinHistory is all about.
+</p>
+
+<p class="space-x-3">
+<a href="/help/getting-started/registration">Registration</a>
+</p>
+
+</contentblock>
+
+<contentblock small>
+
+<h2>Account</h2>
 
 <p>lets go</p>
 
@@ -14,7 +28,23 @@ Welcome to the **MCSkinHistory Help Section**. This is an open-source knowledge 
 
 <contentblock small>
 
-<h2>yo</h2>
+<h2>Billing</h2>
+
+<p>lets go</p>
+
+</contentblock>
+
+<contentblock small>
+
+<h2>Perks & Subscriptions</h2>
+
+<p>lets go</p>
+
+</contentblock>
+
+<contentblock small>
+
+<h2>Trust & Safety</h2>
 
 <p>lets go</p>
 
@@ -25,9 +55,9 @@ Welcome to the **MCSkinHistory Help Section**. This is an open-source knowledge 
 <h2>Legal</h2>
 
 <p class="space-x-3">
-<a href="/help/copyright-policy">Copyright Policy</a>
-<a href="/help/imprint">Imprint</a>
-<a href="/help/refund-policy">Refund Policy</a>
+<a href="/help/legal/copyright-policy">Copyright Policy</a>
+<a href="/help/legal/imprint">Imprint</a>
+<a href="/help/legal/refund-policy">Refund Policy</a>
 </p>
 
 </contentblock>
@@ -35,6 +65,10 @@ Welcome to the **MCSkinHistory Help Section**. This is an open-source knowledge 
 <contentblock small>
 
 <h2>Meta</h2>
+
+<p>
+This help section is open-source, meaning anybody can contribute. You can suggest improvements, report issues or write articles at the <a href="https://github.com/Gigadrive/mcskinhistory-wiki">GitHub repository</a>.
+</p>
 
 <p><a href="/help/history">History</a></p>
 
