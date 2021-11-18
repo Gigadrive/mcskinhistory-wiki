@@ -19,4 +19,4 @@ This guide will help you sign up for an account on MCSkinHistory.com.
 
 ## Linking your Minecraft account
 
-adwiwaip
+Next, you might want to Link your Minecraft account to your MCSkinHistory account. You can find information on how to do that [in this article](/help/getting-started/linking-your-minecraft-account).
