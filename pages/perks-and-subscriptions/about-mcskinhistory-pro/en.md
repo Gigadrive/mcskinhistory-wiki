@@ -9,20 +9,35 @@
 MCSkinHistory PRO offers multiple perks for members. Click [here](/pro) to read more about the service.
 
 * **No Banner Ads**
+
   PRO members will no longer see any banner ads across the entire MCSkinHistory website.
+
 * **"About Me" section**
+
   PRO members can add a custom "About Me" section with Markdown format to their profile.
+
 * **Custom Profile Background Image**
+
   PRO members can upload a custom image to use as the background on their profiles.
+
 * **Custom mcskin.gg Vanity URL**
+
   PRO members can create a custom Vanity URL (short-link) to their profile. Example: [mcskin.gg/Zeryther](https://mcskin.gg/Zeryther).
+
 * **Special name color**
+
   PRO members will appear with a special golden name color in user lists.
+
 * **Faster download speed**
+
   PRO members will no longer have to wait before downloading a skin or cape from MCSkinHistory.
+
 * **Special Discord role**
+
   PRO members will receive a special role on the official MCSkinHistory Discord server.
+
 * **Prioritized customer service**
+
   PRO members will be prioritized in customer service when contacting [support@gigadrivegroup.com](mailto:support@gigadrivegroup.com).
 
 ## Support
