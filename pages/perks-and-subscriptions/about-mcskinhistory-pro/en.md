@@ -1,4 +1,4 @@
-![MCSkinHistory PRO Logo](../../images/prologo.png)
+![MCSkinHistory PRO Logo](../../../images/prologo.png)
 
 # About MCSkinHistory PRO
 
