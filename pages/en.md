@@ -32,6 +32,16 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <contentblock small>
 
+<h2>Community</h2>
+
+<p class="space-x-3">
+<a href="/help/community/text-formatting">Text Formatting</a>
+</p>
+
+</contentblock>
+
+<contentblock small>
+
 <h2>Billing</h2>
 
 <p>lets go</p>
