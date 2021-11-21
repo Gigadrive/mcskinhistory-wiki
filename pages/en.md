@@ -24,7 +24,9 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <h2>Account</h2>
 
-<p>lets go</p>
+<p class="space-x-3">
+<a href="/help/account/data-removal">Data Removal</a>
+</p>
 
 </contentblock>
 
