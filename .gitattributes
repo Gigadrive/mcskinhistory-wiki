@@ -1,0 +1,4 @@
+* text=auto
+*.md text eol=lf
+
+pages/**/*.md linguist-detectable
