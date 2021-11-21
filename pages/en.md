@@ -54,6 +54,7 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <p class="space-x-3">
 <a href="/help/perks-and-subscriptions/about-mcskinhistory-pro">About MCSkinHistory PRO</a>
+<a href="/help/perks-and-subscriptions/vanity-url">Vanity URL</a>
 </p>
 
 </contentblock>
