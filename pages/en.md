@@ -40,7 +40,9 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <h2>Perks & Subscriptions</h2>
 
-<p>lets go</p>
+<p class="space-x-3">
+<a href="/help/perks-and-subscriptions/about-mcskinhistory-pro">About MCSkinHistory PRO</a>
+</p>
 
 </contentblock>
 

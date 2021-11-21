@@ -1,6 +1,6 @@
 # About MCSkinHistory
 
-MCSkinHistory is an automatic database for Minecraft players, servers, skins and capes. On MCSkinHistory you can find one of the biggest selections of Minecraft-related data and information, browse for skins and discover new servers.
+**MCSkinHistory** is an automatic database for Minecraft players, servers, skins and capes. On MCSkinHistory you can find one of the biggest selections of Minecraft-related data and information, browse for skins and discover new servers.
 
 MCSkinHistory started in [2016](/help/meta/history) as a way for Minecraft players to have a reliable way to restore their old Minecraft skins after having lost the files. Since then MCSkinHistory has extended its content branched out to capes and servers to become a central hub for Minecraft-related communities and content.
 
