@@ -13,6 +13,7 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 </p>
 
 <p class="space-x-3">
+<a href="/help/getting-started/about">About MCSkinHistory</a>
 <a href="/help/getting-started/registration">Registration</a>
 <a href="/help/getting-started/linking-your-minecraft-account">Linking your Minecraft account</a>
 </p>
