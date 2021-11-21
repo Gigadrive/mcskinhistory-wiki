@@ -2,3 +2,5 @@
 *.md text eol=lf
 
 pages/**/*.md linguist-detectable
+pages/**/*.yaml linguist-detectable
+pages/**/*.yml linguist-detectable
