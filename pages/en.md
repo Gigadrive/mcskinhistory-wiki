@@ -72,7 +72,10 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 This help section is open-source, meaning anybody can contribute. You can suggest improvements, report issues or write articles at the <a href="https://github.com/Gigadrive/mcskinhistory-wiki">GitHub repository</a>.
 </p>
 
-<p><a href="/help/history">History</a></p>
+<p class="space-x-3">
+<a href="/help/meta/history">History</a>
+<a href="/help/meta/special-thanks">Special Thanks</a>
+</p>
 
 </contentblock>
 
