@@ -2,6 +2,8 @@
 
 Welcome to the **MCSkinHistory Help Section**. This is an open-source knowledge base with a wide range of information all about MCSkinHistory, an automatic database for Minecraft players, servers, skins, capes and more.
 
+This help section is open-source, meaning anybody can contribute. You can suggest improvements, report issues or write articles at the [GitHub repository](https://github.com/Gigadrive/mcskinhistory-wiki).
+
 <contentblock-grid>
 
 <contentblock>
@@ -36,6 +38,16 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <p class="space-x-3">
 <a href="/help/community/text-formatting">Text Formatting</a>
+</p>
+
+</contentblock>
+
+<contentblock small>
+
+<h2>Server</h2>
+
+<p class="space-x-3">
+<a href="/help/server/claiming-a-server-page">Claiming a Server Page</a>
 </p>
 
 </contentblock>
@@ -83,10 +95,6 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <h2>Meta</h2>
 
-<p>
-This help section is open-source, meaning anybody can contribute. You can suggest improvements, report issues or write articles at the <a href="https://github.com/Gigadrive/mcskinhistory-wiki">GitHub repository</a>.
-</p>
-
 <p class="space-x-3">
 <a href="/help/meta/history">History</a>
 <a href="/help/meta/special-thanks">Special Thanks</a>
@@ -95,3 +103,5 @@ This help section is open-source, meaning anybody can contribute. You can sugges
 </contentblock>
 
 </contentblock-grid>
+
+If you have any other questions, contact [support@gigadrivegroup.com](mailto:support@gigadrivegroup.com) or join the [MCSkinHistory Discord Server](/discord).
