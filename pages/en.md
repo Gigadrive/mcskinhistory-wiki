@@ -66,11 +66,11 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <contentblock small>
 
-<h2>Billing</h2>
+<h2>Skins & Capes</h2>
 
 <p>lets go</p>
 
-<a href="/help/billing" class="view-all-button">View all</a>
+<a href="/help/skins-and-capes" class="view-all-button">View all</a>
 
 </contentblock>
 
