@@ -45,6 +45,7 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 <p class="link-list">
 <em>Suggested:</em>
 <a href="/help/community/text-formatting">Text Formatting</a>
+<a href="/help/community/user-roles">User Roles</a>
 </p>
 
 <a href="/help/community" class="view-all-button">View all</a>
@@ -68,7 +69,10 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <h2>Skins & Capes</h2>
 
-<p>lets go</p>
+<p class="link-list">
+<em>Suggested:</em>
+<a href="/help/skins-and-capes/how-do-i-apply-an-optifine-cape">Applying OptiFine capes</a>
+</p>
 
 <a href="/help/skins-and-capes" class="view-all-button">View all</a>
 
