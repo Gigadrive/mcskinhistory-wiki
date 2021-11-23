@@ -96,7 +96,10 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <h2>Trust & Safety</h2>
 
-<p>lets go</p>
+<p class="link-list">
+<em>Suggested:</em>
+<a href="/help/trust-and-safety/player-wellness">Player Wellness</a>
+</p>
 
 <a href="/help/trust-and-safety" class="view-all-button">View all</a>
 
