@@ -14,11 +14,14 @@ This help section is open-source, meaning anybody can contribute. You can sugges
 Start off on the right foot and learn what MCSkinHistory is all about.
 </p>
 
-<p class="space-x-3">
+<p class="link-list">
+<em>Suggested:</em>
 <a href="/help/getting-started/about">About MCSkinHistory</a>
 <a href="/help/getting-started/linking-your-minecraft-account">Linking your Minecraft account</a>
 <a href="/help/getting-started/registration">Registration</a>
 </p>
+
+<a href="/help/getting-started" class="view-all-button">View all</a>
 
 </contentblock>
 
@@ -26,9 +29,12 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <h2>Account</h2>
 
-<p class="space-x-3">
+<p class="link-list">
+<em>Suggested:</em>
 <a href="/help/account/data-removal">Data Removal</a>
 </p>
+
+<a href="/help/account" class="view-all-button">View all</a>
 
 </contentblock>
 
@@ -36,9 +42,12 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <h2>Community</h2>
 
-<p class="space-x-3">
+<p class="link-list">
+<em>Suggested:</em>
 <a href="/help/community/text-formatting">Text Formatting</a>
 </p>
+
+<a href="/help/community" class="view-all-button">View all</a>
 
 </contentblock>
 
@@ -46,9 +55,12 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <h2>Server</h2>
 
-<p class="space-x-3">
+<p class="link-list">
+<em>Suggested:</em>
 <a href="/help/server/claiming-a-server-page">Claiming a Server Page</a>
 </p>
+
+<a href="/help/server" class="view-all-button">View all</a>
 
 </contentblock>
 
@@ -58,16 +70,21 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <p>lets go</p>
 
+<a href="/help/billing" class="view-all-button">View all</a>
+
 </contentblock>
 
 <contentblock small>
 
 <h2>Perks & Subscriptions</h2>
 
-<p class="space-x-3">
+<p class="link-list">
+<em>Suggested:</em>
 <a href="/help/perks-and-subscriptions/about-mcskinhistory-pro">About MCSkinHistory PRO</a>
 <a href="/help/perks-and-subscriptions/vanity-url">Vanity URL</a>
 </p>
+
+<a href="/help/perks-and-subscriptions" class="view-all-button">View all</a>
 
 </contentblock>
 
@@ -77,17 +94,22 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <p>lets go</p>
 
+<a href="/help/trust-and-safety" class="view-all-button">View all</a>
+
 </contentblock>
 
 <contentblock small>
 
 <h2>Legal</h2>
 
-<p class="space-x-3">
+<p class="link-list">
+<em>Suggested:</em>
 <a href="/help/legal/copyright-policy">Copyright Policy</a>
 <a href="/help/legal/imprint">Imprint</a>
 <a href="/help/legal/refund-policy">Refund Policy</a>
 </p>
+
+<a href="/help/legal" class="view-all-button">View all</a>
 
 </contentblock>
 
@@ -95,10 +117,13 @@ Start off on the right foot and learn what MCSkinHistory is all about.
 
 <h2>Meta</h2>
 
-<p class="space-x-3">
+<p class="link-list">
+<em>Suggested:</em>
 <a href="/help/meta/history">History</a>
 <a href="/help/meta/special-thanks">Special Thanks</a>
 </p>
+
+<a href="/help/meta" class="view-all-button">View all</a>
 
 </contentblock>
 
